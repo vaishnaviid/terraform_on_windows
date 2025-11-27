@@ -1,9 +1,5 @@
 # Terraform Setup & Usage on Windows (with VS Code)
 
-This guide explains how to install Terraform on a Windows machine and configure it with Visual Studio Code.
-
----
-
 ## ✅ 1. Install Terraform on Windows
 
 ### **Method 1: Using Chocolatey (Recommended)**  
