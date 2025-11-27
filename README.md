@@ -7,8 +7,9 @@ If you have Chocolatey installed:
 
 ```powershell
 choco install terraform
-Verify installation:
+
 ```
+Verify installation:
 ```powershell
 terraform --version
 ```
