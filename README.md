@@ -4,7 +4,7 @@
                                 
 ### **Method 1: Using Chocolatey (Recommended)**  
 If you have Chocolatey installed:
-
+                              
 ```powershell
 choco install terraform
 
