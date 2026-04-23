@@ -3,7 +3,7 @@
 ## ✅ 1. Install Terraform on Windows        
                                 
 ### **Method 1: Using Chocolatey (Recommended)**  
-If you have Chocolatey installed:
+If you have Chocolatey installed:        
                               
 ```powershell
 choco install terraform
