@@ -6,7 +6,7 @@
 If you have Chocolatey installed:        
                               
 ```powershell
-choco install terraform
+choco install terraform -y
 
 ```
 Verify installation:
