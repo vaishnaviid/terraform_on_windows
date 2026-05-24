@@ -13,7 +13,7 @@ Verify installation:
 ```powershell
 terraform --version
 ```
-Method 2: Manual Installation
+### **Method 2: Manual Installation**
 1. Download Terraform ZIP from the official website:
 https://developer.hashicorp.com/terraform/downloads
 
